@@ -1,3 +1,0 @@
---
--- Script SQL de todas las tablas del software.
---
